@@ -1,0 +1,10 @@
+{
+  "name": "talis/conneg",
+  "type": "library",
+  "homepage": "http://talis.com",
+  "authors": [{
+    "name": "Talis",
+    "email": "ab@talis.com"
+  }]
+}
+
